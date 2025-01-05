@@ -1,0 +1,30 @@
+{
+  "name": "react-day-02",
+  "version": "1.0.0",
+  "description": "This is Namaste react by Suyash Dhumal",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suyashdhumal35/React-day-02.git"
+  },
+  "keywords": [],
+  "author": "suyash dhumal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router": "^7.1.1",
+    "react-router-dom": "^6.28.1"
+  },
+  "browsersList": [
+    "Last 2  versions"
+  ]
+}
